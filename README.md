@@ -1,5 +1,5 @@
 # InstitutionalOutputAnalysis
-Code used for review of the Institutional Output Analysis project. This projects goal was to parse through and analyize the publishing footprint of our factulty colleagues across the university and look at what the spread of open access might be for the scholarly output and how this compares to the Univeristy's policies.  This script is used to merge our three data sources (Scopus, The Lens, and OpenAlex) and prepare this larger dataset for further analysis. 
+Code used for review of the Institutional Output Analysis project. This projects goal was to parse through and analyze the publishing footprint of our faculty colleagues across the university and look at what the spread of open access might be for the scholarly output and how this compares to the University's policies. This script is used to merge our three data sources (Scopus, The Lens, and OpenAlex) and prepare this larger dataset for further analysis.
 
 ## Requirements 
 this scrips uses a variety of python libraries, both native to standard python installation and additional libraries that would need to be installed.  the list of additional libraries can be found in requirements.txt and can be installed using "pip install [packagename(==version)]"
